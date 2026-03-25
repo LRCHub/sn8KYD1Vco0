@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "キャンディ",
+  "base_artist": "キャメオ",
+  "createdAt": "2026-03-25T04:26:56.350009Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キャンディ",
+      "artist": "原田真二",
+      "has_synced": true,
+      "path": "select/01_キャンディ_原田真二.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キャンディ",
+      "artist": "Shinji Harada",
+      "has_synced": true,
+      "path": "select/02_キャンディ_Shinji_Harada.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キャンディ キャンディ (feat. The Chirps)",
+      "artist": "堀江美都子",
+      "has_synced": false,
+      "path": "select/03_キャンディ_キャンディ_(feat._The_Chirps)_堀江美都子.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "キャンディ キャンディ",
+      "artist": "Horie, Mitsuko、Chirps, The",
+      "has_synced": false,
+      "path": "select/04_キャンディ_キャンディ_Horie,_Mitsuko、Chirps,_The.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "キャンディ キャンディ",
+      "artist": "Horie, Mitsuko",
+      "has_synced": false,
+      "path": "select/05_キャンディ_キャンディ_Horie,_Mitsuko.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "キャンディ・ライン",
+      "artist": "Hitomi takahashi",
+      "has_synced": true,
+      "path": "select/06_キャンディ・ライン_Hitomi_takahashi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "キャンディ・ライン",
+      "artist": "Takahashi, Hitomi",
+      "has_synced": true,
+      "path": "select/07_キャンディ・ライン_Takahashi,_Hitomi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "キャンディ",
+      "artist": "GOING UNDER GROUND",
+      "has_synced": false,
+      "path": "select/08_キャンディ_GOING_UNDER_GROUND.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "キャンディ・ライン",
+      "artist": "高橋瞳",
+      "has_synced": true,
+      "path": "select/09_キャンディ・ライン_高橋瞳.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ペペロンチーノ・キャンディ",
+      "artist": "Soutaisei Riron",
+      "has_synced": false,
+      "path": "select/10_ペペロンチーノ・キャンディ_Soutaisei_Riron.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "キャンディ・ハウス",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": true,
+      "path": "select/11_キャンディ・ハウス_Thee_Michelle_Gun_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "キャンディ",
+      "artist": "BUCK-TICK",
+      "has_synced": false,
+      "path": "select/12_キャンディ_BUCK-TICK.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "キャンディ・ライン",
+      "artist": "Hitomi Takahashi",
+      "has_synced": false,
+      "path": "select/13_キャンディ・ライン_Hitomi_Takahashi.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "キャンディ - Live",
+      "artist": "BUCK-TICK",
+      "has_synced": false,
+      "path": "select/14_キャンディ_-_Live_BUCK-TICK.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ミスター・キャンディ",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/15_ミスター・キャンディ_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "キャンディ・ハウス",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": true,
+      "path": "select/16_キャンディ・ハウス_Thee_Michelle_Gun_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ペペロンチーノ・キャンディ",
+      "artist": "Soutaiseiriron",
+      "has_synced": false,
+      "path": "select/17_ペペロンチーノ・キャンディ_Soutaiseiriron.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "キャンディ",
+      "artist": "Daichi Miura",
+      "has_synced": false,
+      "path": "select/18_キャンディ_Daichi_Miura.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "キャンディ",
+      "artist": "BUCK‐TICK",
+      "has_synced": false,
+      "path": "select/19_キャンディ_BUCK‐TICK.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "キャンディ",
+      "artist": "島谷ひとみ",
+      "has_synced": false,
+      "path": "select/20_キャンディ_島谷ひとみ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Candy",
+      "artist": "Cameo",
+      "has_synced": false,
+      "path": "select/pl_01_Candy_Cameo.txt"
+    }
+  ]
+}
